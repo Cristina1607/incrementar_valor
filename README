@@ -1,0 +1,31 @@
+# Incrementador de Valor
+
+Este projeto é um script simples em Python que lê um valor inteiro fornecido pelo usuário, incrementa esse valor em 1 utilizando uma função, e exibe o resultado. É um exemplo básico de como criar e utilizar funções em Python.
+
+## Descrição
+
+O script solicita ao usuário que insira um valor inteiro, incrementa esse valor em 1 usando a função `incrementar`, e exibe o valor incrementado.
+
+### Como funciona:
+
+1. O usuário é solicitado a digitar um valor inteiro.
+2. O valor é passado para a função `incrementar`, que simplesmente adiciona 1 ao valor recebido e o retorna.
+3. O valor incrementado é então exibido na tela.
+
+## Requisitos
+
+- Python 3.x deve estar instalado.
+
+## Como executar
+
+1. Clone este repositório:
+
+   ```bater
+   git clone https://github.com/Cristina1607/incrementar_valor.git
+2. Navegue até o diretório do projeto:
+cd adivinhe-o-numero
+3. Execute o script Python:
+python incrementar_valor.py
+
+Licença
+Este projeto está licenciado sob a MIT License.
