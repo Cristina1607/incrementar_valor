@@ -1,0 +1,22 @@
+```plaintext
+# Ignorar arquivos compilados em Python
+__pycache__/
+
+# Ignorar ambientes virtuais
+env/
+.venv/
+
+# Ignorar arquivos de configuração de editores
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+Enunciado
+Desenvolva um script em Python que leia um valor inteiro, incremente-o em 1 e exiba o resultado. O script deve seguir as etapas abaixo:
+
+1. Solicitar ao usuário que insira um valor inteiro.
+2. Implementar uma função chamada incrementar que receba esse valor como parâmetro e retorne o valor incrementado em 1.
+3. Exibir o valor incrementado.
